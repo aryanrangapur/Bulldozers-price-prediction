@@ -19,7 +19,7 @@ This repository contains code and resources for predicting the prices of bulldoz
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/bulldozer-price-prediction.git
+   git clone https://github.com/aryanrangapur/bulldozer-price-prediction.git
 
 2. Navigate to the project directory:
 
@@ -44,7 +44,7 @@ The dataset used for this project is available in the `data` directory.
 
 * `bulldozer_data.csv`: This CSV file contains information about various bulldozers and their corresponding sale prices.
 
- ## Workflow
+## Workflow
  
 1. **Data Exploration and Preprocessing:** Explore the dataset, handle missing values, and preprocess the features for model training.
 
@@ -54,13 +54,13 @@ The dataset used for this project is available in the `data` directory.
 
 4. **Predictions:** Make predictions on the test dataset using the trained model.
 
-  ## Dependencies
+## Dependencies
   
 * scikit-learn
 * NumPy
 * Pandas
 * Matplotlib
 
-  ## Contributing
+## Contributing
   
   Feel free to contribute to this project. If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.😊
