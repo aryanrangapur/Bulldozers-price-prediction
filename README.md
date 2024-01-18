@@ -34,7 +34,7 @@ This repository contains code and resources for predicting the prices of bulldoz
 
 ## Usage
 
-1. Open the `Bulldozer_Price_Prediction.ipynb` notebook.
+1. Open the `bulldozers_prices_regression.ipynb` notebook.
 
 2. Follow the step-by-step instructions in the notebook for data exploration, preprocessing, model training, and evaluation.
 
