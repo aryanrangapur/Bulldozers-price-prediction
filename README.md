@@ -4,6 +4,7 @@
 
 This repository contains code and resources for predicting the prices of bulldozers using regression techniques. The goal is to build a predictive model that can estimate the price of bulldozers based on various features. This project utilizes the scikit-learn library for machine learning, along with other essential data science libraries such as NumPy, Pandas, and Matplotlib.
 
+
 ## Table of Contents
 
 - [Installation](#installation)
@@ -37,12 +38,18 @@ This repository contains code and resources for predicting the prices of bulldoz
 1. Open the `bulldozers_prices_regression.ipynb` notebook.
 
 2. Follow the step-by-step instructions in the notebook for data exploration, preprocessing, model training, and evaluation.
+   
 
 ## Data
 
-The dataset used for this project is available in the `data` directory.
+The dataset used for this project is available in the data directory. The dataset includes information about various bulldozers and their corresponding sale prices.
 
-* `bulldozer_data.csv`: This CSV file contains information about various bulldozers and their corresponding sale prices.
+**`Train.csv`:** Training dataset for model development.
+
+**`Valid.csv`:** Validation dataset for model evaluation.
+
+**`Test.csv`:** Test dataset for final predictions.
+
 
 ## Workflow
  
@@ -54,12 +61,14 @@ The dataset used for this project is available in the `data` directory.
 
 4. **Predictions:** Make predictions on the test dataset using the trained model.
 
+
 ## Dependencies
   
 * scikit-learn
 * NumPy
 * Pandas
 * Matplotlib
+
 
 ## Contributing
   
