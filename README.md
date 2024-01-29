@@ -17,25 +17,25 @@ This repository contains code and resources for predicting the prices of bulldoz
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository: (in cmd)
 
    ```bash
-   !git clone https://github.com/aryanrangapur/Bulldozer-price-prediction.git
+   git clone https://github.com/aryanrangapur/Bulldozer-price-prediction.git
 
-2. Navigate to the project directory:
+2. Navigate to the project directory: (in cmd)
 
    ```bash
-   !cd bulldozer-price-prediction
+   cd bulldozer-price-prediction
 
-3. Extract the training data from the zip file:
+3. Extract the training data from the zip file: (in jupyter notebook)
 
    ```bash
    !unzip data/Train.zip -d data/
 
-4. Install the required dependencies:
+4. Install the required dependencies: (in cmd)
 
    ```bash
-   !pip install -r requirements.txt
+   pip install -r requirements.txt
 
 
 ## Usage
