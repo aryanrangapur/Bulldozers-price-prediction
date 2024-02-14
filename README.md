@@ -69,7 +69,7 @@ The dataset used for this project is available in the data directory. The datase
 
 ## Dependencies
   
-* scikit-learn
+* Scikit-learn
 * NumPy
 * Pandas
 * Matplotlib
@@ -78,3 +78,4 @@ The dataset used for this project is available in the data directory. The datase
 ## Contributing
   
   Feel free to contribute to this project. If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.😊
+
